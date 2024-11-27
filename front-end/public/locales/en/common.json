@@ -1,0 +1,44 @@
+{
+    "activity": {
+        "deleteActivity": "Are you sure you want to delete this activity",
+        "deleteAlert": "Deleting activity takes a few seconds...",
+        "activityName": "ActivityName",
+        "description": "Description",
+        "categoryName": "CategoryName",
+        "date": "Date",
+        "location": "Location",
+        "edit": "Edit",
+        "delete": "Delete",
+        "enroll": "Enroll",
+        "disenroll": "Disenroll",
+        "addActivity": "Add Activity",
+        "activities": "Activities",
+        "myActivities": "My Activities",
+        "editActivity": "Edit Activity",
+        "updateActivity": "Update Activity"
+    },
+    "errors": {
+        "locationNameErrorOne": "Location with this name does not exist.",
+        "locationNameErrorTwo": "Error checking location name.",
+        "activityNameError": "ActivityName cannot be empty.",
+        "descriptionError": "Description cannot be empty.",
+        "CategoryNameError": "CategoryName cannot be empty.",
+        "dateError": "Date cannot be empty or is typed wrong.",
+        "locationNameErrorThree": "Location name cannot be empty.",
+        "success": "Activity succesfull added. Redirecting to Activity page...",
+        "successUpdate": "Activity succesfull Updated. Redirecting to Activity page...",
+        "participantError": "You are already enrolled!",
+        "capacityError": "Max capacity reached!",
+        "successEnroll": "You are successfully enrolled to ",
+        "successDisenroll": "You are successfully disenrolled!",
+        "emailError": "Email cannot be empty or is typed wrong",
+        "passwordError": "Password is required",
+        "successLogin": "Login succesful. Redirecting to homepage...",
+        "errorLogin": "Password or email is incorrect"
+    },
+    "login": {
+        "email": "Email",
+        "password": "Password",
+        "login": "Login"
+    }
+}

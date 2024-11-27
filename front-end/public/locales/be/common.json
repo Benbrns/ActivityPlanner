@@ -1,0 +1,44 @@
+{
+    "activity": {
+        "deleteActivity": "Weet je zeker dat je deze activiteit wilt verwijderen",
+        "deleteAlert": "Het verwijderen van activiteiten duurt een paar seconden...",
+        "activityName": "Activiteitnaam",
+        "description": "Beschrijving",
+        "categoryName": "Categorienaam",
+        "date": "Datum",
+        "location": "Locatie",
+        "edit": "Bewerk",
+        "delete": "Verwijder",
+        "enroll": "Inschrijven",
+        "disenroll": "Uitschrijven",
+        "addActivity": "Activiteit toevoegen",
+        "activities": "Activiteiten",
+        "myActivities": "Mijn activiteiten",
+        "editActivity": "Activiteit bewerken",
+        "updateActivity": "Activiteit bijwerken"
+    },
+    "errors": {
+        "locationNameErrorOne": "Locatie met deze naam bestaat niet.",
+        "locationNameErrorTwo": "Fout bij het controleren van locatienaam.",
+        "activityNameError": "Activiteitnaam kan niet leeg zijn.",
+        "descriptionError": "De beschrijving kan niet leeg zijn.",
+        "CategoryNameError": "Categorienaam kan niet leeg zijn.",
+        "dateError": "Datum kan niet leeg zijn of is verkeerd getypt.",
+        "locationNameErrorThree": "De locatienaam kan niet leeg zijn.",
+        "success": "Activiteit succesvol toegevoegd. Doorverwijzen naar activiteitspagina...",
+        "successUpdate": "Activiteit succesvol bijgewerkt. Doorverwezen naar activiteitspagina...",
+        "participantError": "Je bent al ingeschreven!",
+        "capacityError": "Maximale capaciteit bereikt!",
+        "successEnroll": "U bent succesvol ingeschreven voor ",
+        "successDisenroll": "Je bent succesvol uitgeschreven!",
+        "emailError": "E-mail kan niet leeg zijn of is verkeerd getypt",
+        "passwordError": "Wachtwoord is vereist",
+        "successLogin": "Inloggen gelukt. Doorverwijzen naar startpagina...",
+        "errorLogin": "Wachtwoord of e-mail is onjuist"
+    },
+    "login": {
+        "email": "E-mail",
+        "password": "Wachtwoord",
+        "login": "Inloggen"
+    }
+}
