@@ -1,6 +1,6 @@
 # Activity Planner
 
-De **Activity Planner** is een applicatie die het beheren en plannen van activiteiten eenvoudig en efficiënt maakt. Het project is ontworpen om zowel organisatoren als deelnemers een gebruiksvriendelijke ervaring te bieden. Dit is een project voor het vak **FullStack development**.
+De **Activity Planner** is een applicatie die het beheren en plannen van activiteiten eenvoudig en efficiënt maakt. Het project is ontworpen om zowel organisatoren als deelnemers een gebruiksvriendelijke ervaring te bieden. Dit was een project voor het vak **FullStack development**.
 
 ## Functionaliteiten
 
